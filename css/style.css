@@ -1162,6 +1162,14 @@
 			padding: 0;
 		}
 
+		#footer .copyright p {
+			margin: 0;
+		}
+
+		#footer .copyright ul {
+			padding-left: 0;
+		}
+
 			#footer .copyright li {
 				color: #858585;
 				display: inline-block;
